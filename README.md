@@ -1,5 +1,5 @@
 # macOCR LaunchBar Action
-A simple LaunchBar Aciton for macOCR
+A simple [LaunchBar](https://obdev.at/products/launchbar/index.html) Aciton for macOCR
 
 ## Demo 
 
